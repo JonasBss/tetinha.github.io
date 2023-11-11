@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Ysabeau+Office&display=swap');
+.euamo{
+    width: 378%;
+    color: red;
+    font-family: 'Courier New', Courier, monospace
+    text-decoration: none;
+    font-weight: 600;
+    padding: 21.5px 0px;
+    border-radius: 8px;
+    font-size: 55px;
+}
+.prova do amor{
+    margin: 10% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.meamasim{
+    width: 378%;
+    color: rgb(0, 0, 0)(255, 213, 213);
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 21.5px 0px;
+    border-radius: 8px;
+    font-size: 55px;
+}
+
+    
